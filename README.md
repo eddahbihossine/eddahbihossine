@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hossine Eddahbi 👋</h1>
 <p align="center">
   <a href="https://github.com/hossine" target="_blank">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hossine&theme=dark" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eddahbihossine&theme=dark" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hossine&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eddahbihossine&show_icons=true&theme=dark)
 
 ### 🚀 My Projects
 
