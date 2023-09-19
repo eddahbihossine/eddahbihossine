@@ -1,38 +1,44 @@
-<center> Hi there 👋</center>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<h1 align="center">Hi there, I'm Hossine Eddahbi 👋</h1>
+<p align="center">
+  <a href="https://github.com/hossine" target="_blank">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hossine&theme=dark" />
+  </a>
+</p>
 
+<p align="center">Passionate Software Engineer | Open Source Enthusiast</p>
 
-coding as always because its awesome here's about me :
+- 🔭 I’m currently working on some cool projects!
+- 🌱 I’m constantly learning and improving my skills.
+- 💬 Ask me about anything related to software development.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hossine-eddahbi/) | [Twitter](https://twitter.com/hossine)
+- 😄 Pronouns: He/Him
 
- 🔭 I’m currently working on a redfile project 
- 🌱 I’m currently learning  c# , java ,ruby
+### ⚡ Technologies and Tools
 
+<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB" alt="Python">
+<img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933" alt="Node.js">
+<img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=2496ED" alt="Docker">
+<img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&color=007ACC" alt="VS Code">
 
- 💬 Ask me moore
- 📫 How to reach me:
--  instagram : @youcancallmesady
--  facebook : hossine
--  twitter : eddahbihossine
+### 📈 GitHub Stats
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hossine&show_icons=true&theme=dark)
 
+### 🚀 My Projects
 
-### :fire: My Stats :
+- [Project 1](https://github.com/hossine/project1): Short project description.
+- [Project 2](https://github.com/hossine/project2): Short project description.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eddahbihossine&theme=dark&background=000000)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddahbihossine&theme=dark&background=00000)](https://github.com/anuraghazra/github-readme-stats)
+### 🌟 Featured Repositories
 
+- [Featured Repo 1](https://github.com/hossine/featured-repo1): A brief description.
+- [Featured Repo 2](https://github.com/hossine/featured-repo2): Another cool project.
 
+### 📚 Blog Posts
 
+- [Blog Post 1](https://dev.to/hossine/blog-post-1): Discussing a tech topic.
+- [Blog Post 2](https://dev.to/hossine/blog-post-2): Sharing my insights.
+
+Feel free to explore my GitHub repositories and reach out if you'd like to collaborate on something exciting! 😃
