@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hossine Eddahbi 👋</h1>
 <p align="center">
   <a href="https://github.com/hossine" target="_blank">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eddahbihossine&theme=dark" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eddahbihossine &theme=dark" />
   </a>
 </p>
 
