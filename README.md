@@ -26,19 +26,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eddahbihossine&show_icons=true&theme=dark)
 
-### 🚀 My Projects
-
-- [Project 1](https://github.com/hossine/project1): Short project description.
-- [Project 2](https://github.com/hossine/project2): Short project description.
-
-### 🌟 Featured Repositories
-
-- [Featured Repo 1](https://github.com/hossine/featured-repo1): A brief description.
-- [Featured Repo 2](https://github.com/hossine/featured-repo2): Another cool project.
-
-### 📚 Blog Posts
-
-- [Blog Post 1](https://dev.to/hossine/blog-post-1): Discussing a tech topic.
-- [Blog Post 2](https://dev.to/hossine/blog-post-2): Sharing my insights.
 
 Feel free to explore my GitHub repositories and reach out if you'd like to collaborate on something exciting! 😃
