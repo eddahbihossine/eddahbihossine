@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on some cool projects!
 - 🌱 I’m constantly learning and improving my skills.
 - 💬 Ask me about anything related to software development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hossine-eddahbi/) | [Twitter](https://twitter.com/hossine)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hossine-edd-9a6957233/) | [Twitter](https://twitter.com/hossine)
 - 😄 Pronouns: He/Him
 
 ### ⚡ Technologies and Tools
