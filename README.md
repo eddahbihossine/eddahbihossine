@@ -1,30 +1,19 @@
-<h1 align="center">Hi there, I'm Hossine Eddahbi 👋</h1>
-<p align="center">
-  <a href="https://github.com/hossine" target="_blank">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eddahbihossine &theme=dark" />
-  </a>
-</p>
+<h1 align="center">Hi there, I'm Eddahbi Elhoussaine 👋</h1>
 
 <p align="center">Passionate Software Engineer | Open Source Enthusiast</p>
 
 - 🔭 I’m currently working on some cool projects!
 - 🌱 I’m constantly learning and improving my skills.
 - 💬 Ask me about anything related to software development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hossine-edd-9a6957233/) | [Twitter](https://twitter.com/hossine)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/heddahbi) | [Twitter](https://twitter.com/ElhoussaineEdd)
 - 😄 Pronouns: He/Him
 
 ### ⚡ Technologies and Tools
 
-<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB" alt="Python">
-<img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933" alt="Node.js">
-<img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=2496ED" alt="Docker">
-<img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&color=007ACC" alt="VS Code">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eddahbihossine&show_icons=true&theme=dark)
+###
 
 
 Feel free to explore my GitHub repositories and reach out if you'd like to collaborate on something exciting! 😃
