@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm Eddahbi Elhoussaine 👋</h1>
 
 <p align="center">Passionate CS Engineer | Open Source Enthusiast</p>
-
-# "In God we trust. All others must bring data."
+<h1 align="center">In God we trust. All others must bring data." </h1>
 
 <div style="display:flex;justify-content:center ;" >
 📫 How to reach me: 
