@@ -1,16 +1,19 @@
 <h1 align="center">Hi there, I'm Eddahbi Elhoussaine 👋</h1>
 
-<p align="center">Passionate Software Engineer | Open Source Enthusiast</p>
+<p align="center">Passionate CS Engineer | Open Source Enthusiast</p>
 
-- 🔭 I’m currently working on some cool projects!
-- 🌱 I’m constantly learning and improving my skills.
-- 💬 Ask me about anything related to software development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/heddahbi) | [Twitter](https://twitter.com/ElhoussaineEdd)
-- 😄 Pronouns: He/Him
+# "In God we trust. All others must bring data."
+
+<div style="display:flex;justify-content:center ;" >
+📫 How to reach me: 
+
+ 
+[LinkedIn](https://www.linkedin.com/in/heddahbi) | 
+[Twitter](https://twitter.com/ElhoussaineEdd) 
+
+ </div>
 
 ### ⚡ Technologies and Tools
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
