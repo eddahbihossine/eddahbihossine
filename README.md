@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Eddahbi Elhoussaine 👋</h1>
 
-<p align="center">Passionate CS Engineer | Open Source Enthusiast</p>
+<p align="center">Passionate Software Engineer | Open Source Enthusiast</p>
 <h1 align="center">In God we trust. All others must bring data. </h1>
 
 <div style="display:flex;justify-content:center ;" >
