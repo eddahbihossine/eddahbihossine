@@ -48,6 +48,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
     </a>
 </p>
+<img src="https://github-readme-stats-zakaria-aitali.vercel.app/api?username=eddahbihossine&include_all_commits=true&rank_icon=percentile&theme=transparent&hide_border=true&border_radius=10" alt="GitHub Stats">
 
 ###
 
