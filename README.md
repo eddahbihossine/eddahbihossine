@@ -48,7 +48,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
     </a>
 </p>
-###
 
 
 Feel free to explore my GitHub repositories and reach out if you'd like to collaborate on something exciting! 😃
